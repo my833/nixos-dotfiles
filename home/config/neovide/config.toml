@@ -1,0 +1,5 @@
+#neovim-bin = "/home/u17/tools/nvim-linux-x86_64/bin/nvim"
+
+[font]
+normal = ["Sarasa Term SC Nerd"]
+size = 17.0
