@@ -1,0 +1,12 @@
+[alias]
+  ci = "commit"
+  co = "checkout"
+  pl = "pull"
+  st = "status"
+
+[core]
+  editor = "nvim"
+
+[user]
+  email = "fake@fake.com"
+  name = "fake"
